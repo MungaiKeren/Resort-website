@@ -1,10 +1,31 @@
 body{
     margin-left: 100px;
     margin-right: 100px;
+    background-color: #f2f6f5;
+}
+html{
+    scroll-behavior: smooth;
+}
+h1{
+    text-align: center;
+    color: blue
+}
+p{
+    font-size: 24px;
 }
 #images{
-
+    margin-left: 150px;
+    margin-right: 150px;    
 }
 img{
-    border-radius: 50%;
+    border-radius: 1%;
+}
+footer{
+    background-color: #63707e;
+    height: 150px;
+    text-align: center;
+}
+h3{
+    font-family: 'Lobster', cursive;
+    text-align: center;
 }
