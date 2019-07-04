@@ -10,7 +10,7 @@ h1{
     text-align: center;
     color: blue
 }
-p{
+p,li{
     font-size: 24px;
 }
 #images{
@@ -25,7 +25,7 @@ footer{
     height: 150px;
     text-align: center;
 }
-h3{
+h3,span{
     font-family: 'Lobster', cursive;
     text-align: center;
 }
