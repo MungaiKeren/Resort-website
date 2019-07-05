@@ -1,4 +1,4 @@
-# {Walda Resort Website}
+# Walda Resort Website
 #### {A simple practice website to practice git branch},{latest version}
 #### By **{WendyOmollo and KerenMungai}**
 ## Description
